@@ -1,0 +1,4 @@
+/home/m410y/Prog/Cpp/vulkan_cringe/build/CMakeFiles/shaders.dir
+/home/m410y/Prog/Cpp/vulkan_cringe/build/CMakeFiles/rectangle.dir
+/home/m410y/Prog/Cpp/vulkan_cringe/build/CMakeFiles/edit_cache.dir
+/home/m410y/Prog/Cpp/vulkan_cringe/build/CMakeFiles/rebuild_cache.dir
