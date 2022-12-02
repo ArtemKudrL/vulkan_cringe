@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/rectangle.dir/rectangle.cxx.o -o rectangle  /usr/lib/libglfw.so.3.3 /lib/libvulkan.so 
